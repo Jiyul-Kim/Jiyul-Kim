@@ -21,8 +21,11 @@
     
   ### ✨ Tech Stack ✨
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>  </br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/subversion-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
+
+#### ETC
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unreal engine&logoColor=white"/> <img src="https://img.shields.io/badge/MAYA-1BB0B2?style=flat-square&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/AE-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 
 </br>
 </br>
